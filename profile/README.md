@@ -1,12 +1,5 @@
-Building Your Own VPN for Free
-#
-linux
-#
-cybersecurity
-#
-tutorial
-#
-productivity
+Building Your Own VPN for Free for android
+
 VPN companies have advertisements everywhere, there’s a reason they sponsor most tech YouTubers (they’ve even tried it with me) but you don’t need to buy an expensive plan to use a VPN.
 
 Here’s how you can build your own:
