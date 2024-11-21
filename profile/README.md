@@ -1,7 +1,6 @@
 <h1>Building Your Own VPN for Free for how to make your own vpn server for free android</h1>
 
 
-VPN companies have advertisements everywhere, there’s a reason they sponsor most tech YouTubers (they’ve even tried it with me) but you don’t need to buy an expensive plan to use a VPN.
 
 Here’s how you can build your own:
 Image description
